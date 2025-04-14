@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLoadNoPageReload", "DynamicLoadNoPageReload\DynamicLoadNoPageReload.csproj", "{9AF161F9-38EC-4A26-9C0D-DD4EED63D23C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF161F9-38EC-4A26-9C0D-DD4EED63D23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF161F9-38EC-4A26-9C0D-DD4EED63D23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF161F9-38EC-4A26-9C0D-DD4EED63D23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF161F9-38EC-4A26-9C0D-DD4EED63D23C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4D6477-4BE7-4F15-A3EA-D537859C8AC5}
+	EndGlobalSection
+EndGlobal
